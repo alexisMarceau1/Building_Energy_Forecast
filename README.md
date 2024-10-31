@@ -9,3 +9,7 @@ We will also assess whether the `ENERGYSTARScore`, which is costly to calculate,
 data link : https://www.seattle.gov/environment/climate-change/buildings-and-energy/energy-benchmarking/data-and-reports
 
 data description link : https://data.seattle.gov/Built-Environment/2016-Building-Energy-Benchmarking/2bpz-gwpy/about_data
+
+**This project is divided into two notebooks**:
+- 1st notebook: notebook including **data cleaning** and **EDA**.
+- 2nd notebook: notebook including different **prediction models** to best answer the problem.
